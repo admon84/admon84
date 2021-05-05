@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I developed [Screeps Tools](https://screeps.admon.dev) to help players of the Programming MMO [Screeps](https://screeps.com).
+Interested in Screeps?
 
-If you're interested in playing Screeps with TypeScript, be sure to check out my 
-[Extended TypeScript Starter kit for Screeps AI](https://github.com/admon84/screeps-typescript-starter).
+Check out some of my current projects:
+
+- :hammer_and_wrench: [Screeps Tools](https://screeps.admon.dev)
+- :robot: [Extended Screeps TypeScript Starter](https://github.com/admon84/screeps-typescript-starter)
